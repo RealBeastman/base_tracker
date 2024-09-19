@@ -68,3 +68,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "discordrb", "~> 3.5"
+
+gem "dotenv-rails", "~> 3.1"
